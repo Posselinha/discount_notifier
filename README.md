@@ -15,6 +15,7 @@ Quando baixar o projeto, você terá o arquivo env.sample, dentro dele possui os
 ![Colocando autenticação básica](https://imgur.com/AHAym5V.png)
 
 3. Aperte em "Save Changes" para salvar as alterações.
+
 ![Mostrando como salvar as alterações](https://imgur.com/6TrMBtI.png)
 
 ## Como copiar a planilha e alimentar com dados
