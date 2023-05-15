@@ -5,6 +5,4 @@ Esse projeto é um notificar de descontos para jogos da Steam e ele funciona man
 Mesmo tendo a opção de wishlist da Steam, você não consegue dar wishlist caso você já possua o jogo em questão. Por isso, foi criado este projeto com o intuito de ainda poder ser notificado quando um jogo que eu já possuo, mas quero dar de presente para um amigo, entrar em promoção
 
 # Como configurar
-Quando baixar o projeto, você terá o arquivo env.sample, dentro dele possui os dados que você irá precisar fornecer para o funcionamento do projeto.
-
-## USERNAME_AUTH
+Quando baixar o projeto, você terá o arquivo env.sample, dentro dele possui os dados que você irá precisar fornecer para o funcionamento do projeto. Antes disso, seria interessante você conectar sua conta do gmail com o [sheety](https://sheety.co) e criar uma cópia desta tabela
